@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "Sujal1003";
+$password = ""; //Enter your database password and name.
 $dbName = "tasks";
 
 $error = '';
